@@ -1600,6 +1600,14 @@ line-height: 0px;
 font-size: 0;
 clear: both;
 }
+
+iframe:focus {
+  outline: none;
+}
+
+iframe[seamless] {
+  display: block;
+}
 	
 
 /* End Various Tags & Classes*/
