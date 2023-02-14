@@ -11,9 +11,9 @@ $mailto = 'toyboxpuppet@gmail.com' ;
 $subject = "Contact Form" ;
 
 
-$formurl = "http://www.toyboxpuppettheatre.com/contact.html" ;
-$errorurl = "http://www.toyboxpuppettheatre.com/error.html" ;
-$thankyouurl = "http://www.toyboxpuppettheatre.com/thanks.html" ;
+$formurl = "https://charliebunt.github.io/toybox/contact.html" ;
+$errorurl = "https://charliebunt.github.io/toybox/error.html" ;
+$thankyouurl = "https://charliebunt.github.io/toybox/thanks.html" ;
 
 
 $name = $_POST['name'] ;
